@@ -11,13 +11,7 @@
 
 CS undergraduate with a solid grounding in object-oriented programming and software engineering, driven by **AI, machine learning, and data science**. I like tracing problems to their root cause, testing the edge cases, and building things that actually work.
 
-| | |
-|---|---|
-| 🎓 **Studying** | BSc (Hons) Computer Science, NSBM Green University (Univ. of Plymouth, UK), 2024 – 2027 |
-| 📜 **Certificate** | Professional Certificate in Artificial Intelligence, Informatics Institute of Technology (in progress) |
-| 🎯 **Looking for** | Internships |
 
----
 
 ## 🧰 Skills
 
