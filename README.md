@@ -28,14 +28,14 @@ CS undergraduate with a solid grounding in object-oriented programming and softw
 
 ## 🤝 Community
 
-- **Marketing Lead, Association of Software Engineering (ASE)**, NSBM: coordinating a national-level tech event across technical and non-technical teams
-- **Council Member, FOSS Community Club**, NSBM: open-source community and documentation
+- **Marketing Lead, Association of Software Engineering (ASE)**, NSBM
+- **Council Member, FOSS Community Club**
 
 ---
 
 ## 📬 Connect with me
 
-Hiring for an **internship** (AI / ML / data science / software engineering), or building something ambitious? Email is the fastest way to reach me.
+Hiring for an **internship** , or building something ambitious? Email is the fastest way to reach me.
 
 <a href="https://www.linkedin.com/in/a-w-a-tharushika-2ab8a6298/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="mailto:awatharu2021@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
