@@ -39,6 +39,6 @@ Hiring for an **internship** , or building something ambitious? Email is the fas
 
 <a href="https://www.linkedin.com/in/a-w-a-tharushika-2ab8a6298/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="mailto:awatharu2021@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
-<a href="https://github.com/awatharushika44"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+
 
 <img src="./footer.svg" alt="" width="100%">
