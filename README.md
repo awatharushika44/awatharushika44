@@ -15,17 +15,6 @@ SETUP: public repo named exactly "awatharushika44", banner.svg in the repo root,
 
 CS undergraduate with a solid grounding in object-oriented programming and software engineering, driven by **AI, machine learning, and data science**. I like tracing problems to their root cause, testing the edge cases, and building things that actually work.
 
-📍 Sri Lanka · 🎓 BSc (Hons) Computer Science, NSBM Green University (Univ. of Plymouth, UK), 2027
-🎯 Looking for: **internships** in AI / ML / data science and software engineering
-
-```
-> loading skills ...
-[ ok ] programming ...... python · c# · js · c
-[ ok ] full-stack ....... react · node · asp.net
-[ ok ] databases ........ mongodb · sql · firebase
-[ ok ] ai apis .......... openai · gemini
-[ ok ] qa & testing ..... manual · defect reports
-```
 
 ---
 
