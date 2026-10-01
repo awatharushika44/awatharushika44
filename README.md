@@ -8,8 +8,7 @@ SETUP: public repo named exactly "awatharushika44", banner.svg in the repo root,
 
 <p align="center">
   <img src="https://img.shields.io/badge/OPEN_TO-INTERNSHIPS-5ae6ff?style=flat-square&labelColor=000000" alt="Open to internships">
-  <img src="https://img.shields.io/badge/BASED_IN-SRI_LANKA-ffffff?style=flat-square&labelColor=000000" alt="Based in Sri Lanka">
-  <img src="https://img.shields.io/badge/FOCUS-AI_·_ML_·_DATA-ff4fd8?style=flat-square&labelColor=000000" alt="Focus: AI, ML, data">
+
 </p>
 
 ## 👋 About
