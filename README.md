@@ -44,9 +44,8 @@ Hiring for an **internship** , or building something ambitious? Email is the fas
 
 ## 🌐 Portfolio
 
-<a href="https://YOUR-SITE.vercel.app"><img src="https://img.shields.io/badge/PORTFOLIO-VISIT_THE_SITE-5ae6ff?style=for-the-badge&labelColor=000000" alt="Visit my portfolio"></a>
+<a href="https://awatharushika-portfolio.vercel.app/"><img src="https://img.shields.io/badge/PORTFOLIO-VISIT_THE_SITE-5ae6ff?style=for-the-badge&labelColor=000000" alt="Visit my portfolio"></a>
 
-Projects, skills, and an AI you can ask about my work.
 
 
 <img src="./footer.svg" alt="" width="100%">
