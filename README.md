@@ -40,5 +40,13 @@ Hiring for an **internship** , or building something ambitious? Email is the fas
 <a href="https://www.linkedin.com/in/a-w-a-tharushika-2ab8a6298/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="mailto:awatharu2021@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
 
+---
+
+## 🌐 Portfolio
+
+<a href="https://YOUR-SITE.vercel.app"><img src="https://img.shields.io/badge/PORTFOLIO-VISIT_THE_SITE-5ae6ff?style=for-the-badge&labelColor=000000" alt="Visit my portfolio"></a>
+
+Projects, skills, and an AI you can ask about my work.
+
 
 <img src="./footer.svg" alt="" width="100%">
